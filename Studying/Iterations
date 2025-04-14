@@ -1,97 +1,114 @@
 # Agile Workflow – Comic: "Why I Should Graduate from BRICS University"
 
-This Agile plan breaks down the comic creation into focused 10-minute sprints, including a final review sprint to refine and reflect before publishing.
+This Agile plan breaks down the comic creation into five focused 10-minute sprints, including detailed work per panel and a final review sprint for polish and reflection.
 
 ---
 
 ## Sprint 1: Pre-production – Script & Planning  
 **Duration:** 10 minutes  
-**Goal:** Define the comic concept, script, characters, and visual layout.
+**Goal:** Define the comic theme, message, characters, and layout.
 
 ### Tasks:
-- [ ] Finalize comic theme and title
-- [ ] Write panel-by-panel script with dialogue
-- [ ] Sketch quick thumbnail layout of 4–5 panels
-- [ ] Identify main character(s) and setting
+- [ ] Lock in theme and core message
+- [ ] Write the panel-by-panel script with dialogue
+- [ ] Sketch a thumbnail layout of the full comic
+- [ ] Choose character design and setting inspiration
 
 **Deliverable:**  
-- Rapid script + thumbnail storyboard for the comic
+- Script + storyboard (thumbnail version)
 
 ---
 
-## Sprint 2: Rough Art – Layout & Composition  
+## Sprint 2: Panel Breakdown – Build Each Scene  
 **Duration:** 10 minutes  
-**Goal:** Establish visual flow and panel structure.
+**Goal:** Flesh out each panel’s narrative and visual intent.
 
-### Tasks:
-- [ ] Create fast rough sketches for all panels
-- [ ] Place rough speech bubbles/dialogue
-- [ ] Define character poses and panel layout
-- [ ] Prioritize storytelling over detail
+### Panel Descriptions:
+- **Panel 1 – The Dream:**  
+  *Scene:* A student staring at a world map with university pins.  
+  *Dialogue:* “I want a degree that speaks to the real world — not just textbooks.”  
+  *Visual Note:* Aspirational tone, warm lighting, globe/map backdrop.
+
+- **Panel 2 – Global Classroom:**  
+  *Scene:* Diverse classmates from BRICS countries.  
+  *Dialogue:* “At BRICS, you learn economics from Brazil, tech from India...”  
+  *Visual Note:* Cultural mix, classroom with international flags subtly present.
+
+- **Panel 3 – Real-World Value:**  
+  *Scene:* Job fair or interview with recruiter.  
+  *Dialogue:* “BRICS University? You’ve already worked with global teams!”  
+  *Visual Note:* Confident student, impressed recruiter, portfolio in hand.
+
+- **Panel 4 – Graduation & Reflection:**  
+  *Scene:* Graduation stage, family cheering, student in robe.  
+  *Dialogue (Thought Bubble):* “This degree isn’t just international — it’s transformational.”  
+  *Visual Note:* Joyful, celebratory tone with academic regalia and diverse peers.
+
+**Tasks:**
+- [ ] Refine sketches for each panel based on the descriptions
+- [ ] Finalize dialogue and layout spacing
+- [ ] Identify props, background details, and expression cues
 
 **Deliverable:**  
-- Complete rough sketch layout with text placement
+- Refined rough layout for each individual panel with dialogue
 
 ---
 
 ## Sprint 3: Line Art & Lettering  
 **Duration:** 10 minutes  
-**Goal:** Finalize strong linework and clean up text.
+**Goal:** Finalize visuals with clean lines and polished text.
 
 ### Tasks:
-- [ ] Ink all panels with bold, readable lines
-- [ ] Add final speech bubbles and dialogue
-- [ ] Clean up composition if needed
+- [ ] Ink all four panels
+- [ ] Add speech bubbles and finalize text placement
+- [ ] Adjust panel composition as needed
 
 **Deliverable:**  
-- Black-and-white final draft with readable dialogue
+- Full line-art comic, ready for color
 
 ---
 
 ## Sprint 4: Coloring & Publishing  
 **Duration:** 10 minutes  
-**Goal:** Add color polish and prepare to share.
+**Goal:** Add color, contrast, and export for publishing.
 
 ### Tasks:
-- [ ] Apply flat color quickly to all panels
-- [ ] Add light shading or highlights
-- [ ] Export final version (PNG or PDF)
-- [ ] Prepare to publish
+- [ ] Apply flat color and simple shading
+- [ ] Balance color palette across panels
+- [ ] Export comic as PNG/PDF for sharing or upload
 
 **Deliverable:**  
-- Final colored and exported version of the comic
+- Fully colored and exported version
 
 ---
 
 ## Sprint 5: Review & Polish  
 **Duration:** 10 minutes  
-**Goal:** Reflect on the process and improve clarity or details.
+**Goal:** Reflect and make small improvements before final delivery.
 
 ### Tasks:
-- [ ] Re-read all dialogue and check flow
-- [ ] Fix any awkward poses or framing
-- [ ] Adjust color balance or contrast
-- [ ] Review final export format (web/social/print)
-- [ ] Make notes for future comics or improvements
+- [ ] Re-read and refine dialogue for tone and clarity
+- [ ] Fix any awkward visuals or coloring
+- [ ] Make a checklist of lessons for next comic
 
 **Deliverable:**  
-- Clean, polished, and reviewed version of the comic, ready to publish or present
+- Final reviewed version, ready for publishing
 
 ---
 
 ## Tools & Boards  
-- **Task Board Columns:** `To Do | In Progress | Review | Done`  
-- **Suggested Tools:** Trello, Notion, Figma, Krita, Clip Studio Paint, GitHub Projects
+- **Workflow Columns:** `To Do | In Progress | Review | Done`  
+- **Recommended Tools:** Trello, Notion, Krita, Figma, Clip Studio Paint, GitHub Projects
 
 ---
 
-## Sprint Retrospectives (Optional)  
-After each sprint, reflect with:
-- What worked well?
-- What could be improved?
-- Should I iterate more or move on?
+## Retrospective Notes  
+After each sprint, reflect:
+- What worked well in 10 minutes?
+- What felt rushed or incomplete?
+- Would I expand this sprint next time?
 
 ---
 
-## Final Result  
-A complete 4–5 panel comic delivered using rapid Agile methods — showcasing creativity, structure, and self-review in a lean workflow.
+## Outcome  
+A complete 4-panel comic produced with an Agile mindset — efficient, focused, and adaptable for future creative projects.
